@@ -8,5 +8,5 @@ https://github.com/nreHieW/Eagle
 
 My example implementation of the "Eagle" tool:
 
-https://github.com/user-attachments/assets/23720c86-4100-438e-a91a-a3c0042bea96
+![gala_continuousPlayerTracking](https://github.com/user-attachments/assets/763f7370-9c64-4717-bb30-ffea38ad6e52)
 
