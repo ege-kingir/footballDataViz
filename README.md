@@ -5,3 +5,6 @@ Mini-projects included in the current scripts:
 
 "trackVideoEagle.ipynb" script is a direct adaptation from the following GitHub repository:
 https://github.com/nreHieW/Eagle
+
+https://github.com/user-attachments/assets/23720c86-4100-438e-a91a-a3c0042bea96
+
